@@ -1,0 +1,10 @@
+1.header
+slider
+2.content
+about
+tour
+contact
+img
+3.footer
+
+ONEPAGE
